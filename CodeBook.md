@@ -1,6 +1,7 @@
 #Code Book
 
-The script run_analysis is meant to be run in the same working directory with the following data
+The script run_analysis is meant to be run in the same working directory with the following data:
+
 The data linked represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
