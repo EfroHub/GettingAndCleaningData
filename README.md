@@ -1,6 +1,8 @@
 # run_analysis.R
 
-This script performs the following tasks:
+This script performs the following tasks on the data gathered from Samsung Galaxy S sensors provided here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
