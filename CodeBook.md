@@ -20,3 +20,5 @@ At this point a dataset is produced with the clean merged data and will be saved
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 The dataset with the averages of the required measurements is presented in the file "final2.txt"
+
+Further information about how the script works can be found in the comments of the script itself
